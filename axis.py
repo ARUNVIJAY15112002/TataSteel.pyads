@@ -1,6 +1,7 @@
 # Import Axis class from the 'quary' module
 from quary import Axis
 
+
 # Define the AxisData class to handle data for multiple axes
 class AxisData:
     def __init__(self, axis, new_array):
